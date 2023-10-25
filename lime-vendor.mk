@@ -302,13 +302,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/lime/proprietary/vendor/firmware/a620_zap.elf:$(TARGET_COPY_OUT_VENDOR)/firmware/a620_zap.elf \
     vendor/xiaomi/lime/proprietary/vendor/firmware/a620_zap.mdt:$(TARGET_COPY_OUT_VENDOR)/firmware/a620_zap.mdt \
     vendor/xiaomi/lime/proprietary/vendor/firmware/a630_sqe.fw:$(TARGET_COPY_OUT_VENDOR)/firmware/a630_sqe.fw \
-    vendor/xiaomi/lime/proprietary/vendor/firmware/a650_gmu.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/a650_gmu.bin \
-    vendor/xiaomi/lime/proprietary/vendor/firmware/a650_sqe.fw:$(TARGET_COPY_OUT_VENDOR)/firmware/a650_sqe.fw \
-    vendor/xiaomi/lime/proprietary/vendor/firmware/a650_zap.b00:$(TARGET_COPY_OUT_VENDOR)/firmware/a650_zap.b00 \
-    vendor/xiaomi/lime/proprietary/vendor/firmware/a650_zap.b01:$(TARGET_COPY_OUT_VENDOR)/firmware/a650_zap.b01 \
-    vendor/xiaomi/lime/proprietary/vendor/firmware/a650_zap.b02:$(TARGET_COPY_OUT_VENDOR)/firmware/a650_zap.b02 \
-    vendor/xiaomi/lime/proprietary/vendor/firmware/a650_zap.elf:$(TARGET_COPY_OUT_VENDOR)/firmware/a650_zap.elf \
-    vendor/xiaomi/lime/proprietary/vendor/firmware/a650_zap.mdt:$(TARGET_COPY_OUT_VENDOR)/firmware/a650_zap.mdt \
     vendor/xiaomi/lime/proprietary/vendor/firmware/a702_sqe.fw:$(TARGET_COPY_OUT_VENDOR)/firmware/a702_sqe.fw \
     vendor/xiaomi/lime/proprietary/vendor/firmware/a702_zap.b00:$(TARGET_COPY_OUT_VENDOR)/firmware/a702_zap.b00 \
     vendor/xiaomi/lime/proprietary/vendor/firmware/a702_zap.b01:$(TARGET_COPY_OUT_VENDOR)/firmware/a702_zap.b01 \
@@ -324,13 +317,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/lime/proprietary/vendor/firmware/aw87519_kspk.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/aw87519_kspk.bin \
     vendor/xiaomi/lime/proprietary/vendor/firmware/focaltech_ts_fw.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/focaltech_ts_fw.bin \
     vendor/xiaomi/lime/proprietary/vendor/firmware/focaltech_ts_fw_TRULY.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/focaltech_ts_fw_TRULY.bin \
-    vendor/xiaomi/lime/proprietary/vendor/firmware/ipa_fws.b00:$(TARGET_COPY_OUT_VENDOR)/firmware/ipa_fws.b00 \
-    vendor/xiaomi/lime/proprietary/vendor/firmware/ipa_fws.b01:$(TARGET_COPY_OUT_VENDOR)/firmware/ipa_fws.b01 \
-    vendor/xiaomi/lime/proprietary/vendor/firmware/ipa_fws.b02:$(TARGET_COPY_OUT_VENDOR)/firmware/ipa_fws.b02 \
-    vendor/xiaomi/lime/proprietary/vendor/firmware/ipa_fws.b03:$(TARGET_COPY_OUT_VENDOR)/firmware/ipa_fws.b03 \
-    vendor/xiaomi/lime/proprietary/vendor/firmware/ipa_fws.b04:$(TARGET_COPY_OUT_VENDOR)/firmware/ipa_fws.b04 \
-    vendor/xiaomi/lime/proprietary/vendor/firmware/ipa_fws.elf:$(TARGET_COPY_OUT_VENDOR)/firmware/ipa_fws.elf \
-    vendor/xiaomi/lime/proprietary/vendor/firmware/ipa_fws.mdt:$(TARGET_COPY_OUT_VENDOR)/firmware/ipa_fws.mdt \
     vendor/xiaomi/lime/proprietary/vendor/firmware/nt33672a_tianma_novatek_ts_fw.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/nt33672a_tianma_novatek_ts_fw.bin \
     vendor/xiaomi/lime/proprietary/vendor/firmware/nt33672a_tianma_novatek_ts_mp.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/nt33672a_tianma_novatek_ts_mp.bin \
     vendor/xiaomi/lime/proprietary/vendor/firmware/nt33672a_truly_novatek_ts_fw.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/nt33672a_truly_novatek_ts_fw.bin \
